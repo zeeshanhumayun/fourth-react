@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>5th commit check by zeeshan via hithub hook & jenkins</h1>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        6th time
         <a
           className="App-link"
           href="https://reactjs.org"
